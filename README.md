@@ -1,12 +1,13 @@
 # OnlineSales-AdventureWorks-PowerBI
 
+![Image Alt](https://github.com/sandrapampin/OnlineSales-AdventureWorks-PowerBI/blob/939a45180cf3126ffa4a5f8ddc93a0177446bbf6/src/dashboard%20-1.png)
 
 ## Introducción
 A continuación, se presentan los pasos empleados para el proyecto del Cuadro de Mando de ventas online de Adventure Works 2022:
 •	Identificar necesidades de cliente.
 •	Toma de requerimientos de cliente. 
 •	Localizar fuentes de datos brutas, analizar tablas y revisión de su contenido e integridad.
-•   Proporción de métricas y KPIs según necesidades cliente. 
+• Proporción de métricas y KPIs según necesidades cliente. 
 •	Procesamiento de datos.
 •	Integración de datos.
 •	Optimizar el modelo de datos: una tabla de hechos y cinco de dimensiones.
@@ -50,7 +51,10 @@ El Data Mart de Ventas Online de AdventureWorks se ha diseñado para centralizar
 
 
 ## El flujo de trabajo 
--imagen
+![Image Alt](https://github.com/sandrapampin/OnlineSales-AdventureWorks-PowerBI/blob/939a45180cf3126ffa4a5f8ddc93a0177446bbf6/src/workflow%20with%20tools.png)
+
+
+![Image Alt](https://github.com/sandrapampin/OnlineSales-AdventureWorks-PowerBI/blob/939a45180cf3126ffa4a5f8ddc93a0177446bbf6/src/workflow.gif)
 
 ## Modelo de datos
 Los datos están crudos y pueden contener errores, duplicados o valores nulos. A partir de aquí se desarrolla una fase de: limpieza de datos, integración de datos, transformación de datos, control de calidad del dato, segmentación y cambios. 
